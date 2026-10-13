@@ -1,0 +1,8 @@
+{
+  "name": "FarmerLink",
+  "description": "A direct farm-to-consumer marketplace connecting local farmers with shoppers. Features AI-powered product descriptions, order tracking, and a comprehensive admin dashboard.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
